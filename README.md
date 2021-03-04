@@ -8,4 +8,4 @@ As a friend of mine has started his university days recently, he tought it was a
 
 Everything here is purely for education pourposes and does not substitute any university classes. My only intention is to help someone who's close to me.
 
-It can be a bit challenging, but I've always heard that one of the best learning methods in any context is to teach it to someone. That's what I'm trying to do, for sure it'll be a gorgeous experience. :)
+It can be a bit challenging, but I've always heard that one of the best learning methods in any context is to teach it to someone. That's what I'm trying to do, for sure it'll be a gorgeous experience. c:
