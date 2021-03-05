@@ -1,6 +1,6 @@
 # Book references
 
-* Ira Pohl - A Book On C (1984) __(Author's note: I like this one a lot.)__
+* Ira Pohl - A Book On C (1984) _(Author's note: I like this one a lot.)_
 * Ascencio, Campos - Fundamentos da Programação de Computadores (2002)
 
 # More references
