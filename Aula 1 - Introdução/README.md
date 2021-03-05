@@ -3,7 +3,7 @@
 * Ira Pohl - A Book On C (1984) _(Author's note: I like this one a lot.)_
 * Ascencio, Campos - Fundamentos da Programação de Computadores (2002)
 
-# More references
+## More references
 
 * [ESALQ/USP - Arquitetura de Computador de Von Neumann](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/A-Arquitetura-de-computador-de-von-Neumann.pdf)
 
