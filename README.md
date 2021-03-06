@@ -1,5 +1,5 @@
 # Initial Course Mentory
-Initial Computer Science mentory made to help newcomers in programming world. Mainly focused in practical learning. This repository intends to has an introductory C approach, together with useful tools I've learning during my undergraduate course.
+Initial Computer Science mentory made to help newcomers in programming world. Mainly focused in practical learning. This repository intends to has an introductory C approach, together with useful tools I've been learning during my undergraduate course.
 
 Besides the english-written README, the mainly language used inside this repository files are my native one (PT-BR).
 
