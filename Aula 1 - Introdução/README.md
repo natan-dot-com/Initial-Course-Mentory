@@ -1,9 +1,6 @@
-# Book references
+# First class references
 
-* Ira Pohl - A Book On C (1984) _(Author's note: I like this one a lot.)_
-* Ascencio, Campos - Fundamentos da Programação de Computadores (2002)
-
-# More references
+* [UFSC - A Máquina de Turing](https://www.inf.ufsc.br/~j.barreto/trabaluno/MaqT01.pdf)
 
 * [ESALQ/USP - Arquitetura de Computador de Von Neumann](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/A-Arquitetura-de-computador-de-von-Neumann.pdf)
 
@@ -16,8 +13,3 @@
 * [Geeksforgeeks - Memory Layout of C Program](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
 
 * [What is a compiler?](https://lambda.uta.edu/cse5317/notes/node3.html)
-
-* [Rodrigo Mello's YouTube channel](https://www.youtube.com/channel/UCTIwE4a3uCXuwudKjhLuwzQ/videos)
-
-* [Fabio Akita's YouTube channel](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
-
