@@ -1,4 +1,4 @@
-# Initial-Course-Mentory
+# Initial Course Mentory
 Initial Computer Science mentory made to help newcomers in programming world. Mainly focused in practical learning. This repository intends to has an introductory C approach, together with useful tools I've learning during my undergraduate course.
 
 Besides the english-written README, the mainly language used inside this repository files are my native one (PT-BR).
@@ -14,7 +14,5 @@ It can be a bit challenging, but I've always heard that one of the best learning
 
 * Ira Pohl - A Book On C (1984) _(Author's note: I like this one a lot.)_
 * Ascencio, Campos - Fundamentos da Programação de Computadores (2002)
-
 * [Rodrigo Mello's YouTube channel](https://www.youtube.com/channel/UCTIwE4a3uCXuwudKjhLuwzQ/videos)
-
 * [Fabio Akita's YouTube channel](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
